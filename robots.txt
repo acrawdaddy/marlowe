@@ -1,0 +1,29 @@
+# robots.txt — Marlowe
+# Allow Google + AI answer engines to crawl and cite the site.
+
+User-agent: *
+Allow: /
+
+# --- AI search & assistant crawlers (allowed so they can cite us) ---
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Bingbot
+Allow: /
+
+# --- Training-only crawler we choose to block (optional) ---
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://marlowe-care.vercel.app/sitemap.xml

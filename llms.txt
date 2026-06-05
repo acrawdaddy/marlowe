@@ -1,0 +1,32 @@
+# Marlowe
+
+> Private care coordination for older adults and their aging parents. Members get one
+> dedicated care advisor who manages doctors, appointments, medical records,
+> medications, transport, and second opinions — and explains everything in plain language.
+
+Marlowe is a paid membership service (not an insurer or medical provider). It is
+built for affluent adults in their 60s managing their own care and/or coordinating care for
+elderly parents, including parents who live in another state.
+
+## What care coordination means here
+- One named advisor (often a registered nurse) per household
+- Appointment scheduling, prep, and transport arrangement
+- All medical records gathered into one secure, HIPAA-compliant place
+- Medication tracking and interaction checks
+- Plain-English summaries after every visit
+- Priority second-opinion concierge for serious diagnoses
+- A 24/7 line for urgent questions
+
+## Membership
+- Individual: $295/month (billed annually) — one person
+- Household: $495/month (billed annually) — up to four family members across states
+- 30-day full-refund promise; every membership starts with a free introductory call
+
+## Key pages
+- Home / overview: https://marlowe-care.vercel.app/
+- Pricing (machine-readable): https://marlowe-care.vercel.app/pricing.md
+- Contact: (800) 421-7700
+
+## Important
+Marlowe does not practice medicine, make medical decisions, or replace a member's
+physicians. In an emergency, call 911.
