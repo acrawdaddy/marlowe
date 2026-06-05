@@ -26,4 +26,4 @@ Allow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://marlowe-care.vercel.app/sitemap.xml
+Sitemap: https://marlowe.vercel.app/sitemap.xml

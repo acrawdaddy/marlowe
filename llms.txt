@@ -23,8 +23,8 @@ elderly parents, including parents who live in another state.
 - 30-day full-refund promise; every membership starts with a free introductory call
 
 ## Key pages
-- Home / overview: https://marlowe-care.vercel.app/
-- Pricing (machine-readable): https://marlowe-care.vercel.app/pricing.md
+- Home / overview: https://marlowe.vercel.app/
+- Pricing (machine-readable): https://marlowe.vercel.app/pricing.md
 - Contact: (800) 421-7700
 
 ## Important
